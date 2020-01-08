@@ -1,0 +1,28 @@
+Cycle: 1
+
+RF: 
+F1: 0
+F2: 2
+F3: 4
+F4: 6
+F5: 8
+
+RAT: 
+F1: RS1
+F2: 
+F3: 
+F4: 
+F5: 
+
+RS: 
+RS1: + 2 1 
+
+RS2 
+
+RS3 
+
+Buffer: X
+RS4: 
+RS5: 
+
+Buffer: X
