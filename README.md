@@ -1,4 +1,4 @@
-# 1076042 HW2 Instruction scheduling
+# 1076042 HW2 Instruction cheduling
 此檔案介紹如何使用此程式
 
 ## 執行方式
